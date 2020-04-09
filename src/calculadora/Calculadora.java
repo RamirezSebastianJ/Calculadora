@@ -4,7 +4,6 @@ package calculadora;
 import calculadora.Controlador.PrincipalControlador;
 import calculadora.Logica.PrincipalLogica;
 import calculadora.Vista.Interfaz;
-import calculadora.Vista.InterfazInformacion;
 
 public class Calculadora {
 
